@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="task_06_u37.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:task_06_u37"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="ColorGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="VisualStateGroups">
+                <VisualState x:Name="VisualStatePhone">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0"/>
+                        
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ColorGrid.Background" Value="red"/>
+                        <Setter Target="MessageTextBlock.FontSize" Value="18"/>
+                    </VisualState.Setters>
+                   
+                </VisualState>
+                <VisualState x:Name="VisualStateTablet">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="600"/>
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ColorGrid.Background" Value="yellow" />
+                        <Setter Target="MessageTextBlock.FontSize" Value="36" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="VisualStateDesktop">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="800"/>
+                        
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ColorGrid.Background" Value="blue" />
+                        <Setter Target="MessageTextBlock.FontSize" Value="54" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <TextBlock Name="MessageTextBlock" Text="Hello VisualStateManager"/>
+    </Grid>
+</Page>
