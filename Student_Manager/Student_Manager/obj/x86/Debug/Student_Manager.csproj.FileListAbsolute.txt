@@ -1,0 +1,11 @@
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\Student_Manager.csproj.AssemblyReference.cache
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\App.g.i.cs
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\App.g.cs
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\MainPage.g.cs
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\App.xaml
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\MainPage.xaml
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\App.xbf
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\MainPage.xbf
+C:\Users\phong\source\repos\code c#\Student_Manager\Student_Manager\obj\x86\Debug\XamlSaveStateFile.xml
