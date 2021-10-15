@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Student_Manager.models
 {
-    class studentlist
+    public class studentlist
     {
-
         public string Name { get; set; }
         public string AvatarPath { get; set; }
         public string YearofBirth { get; set; }
-
     }
 }
