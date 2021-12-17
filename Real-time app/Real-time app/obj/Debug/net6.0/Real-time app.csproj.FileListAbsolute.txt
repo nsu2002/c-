@@ -1,0 +1,36 @@
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.AssemblyReference.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfoInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CoreCompileInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.AssemblyReference.cache
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfoInputs.cache
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfo.cs
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\appsettings.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\libman.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.staticwebassets.runtime.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.exe
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.deps.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.runtimeconfig.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\ref\Real-time app.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.pdb
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\scopedcss\bundle\Real-time app.styles.css
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CopyComplete
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\ref\Real-time app.dll
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.pdb
+C:\Users\phong\OneDrive\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.genruntimeconfig.cache
