@@ -1,0 +1,26 @@
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\appsettings.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.staticwebassets.runtime.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.exe
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.deps.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.runtimeconfig.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.dll
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\ref\[Task 7] OAuth 2.0.dll
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\bin\Debug\net6.0\[Task 7] OAuth 2.0.pdb
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.RazorAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.RazorAssemblyInfo.cs
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\scopedcss\bundle\[Task 7] OAuth 2.0.styles.css
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\scopedcss\projectbundle\[Task 7] OAuth 2.0.bundle.scp.css
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.dll
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\ref\[Task 7] OAuth 2.0.dll
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.pdb
+C:\Users\nguye\OneDrive\Máy tính\c-\[Task 7] OAuth\[Task 7] OAuth 2.0\obj\Debug\net6.0\[Task 7] OAuth 2.0.genruntimeconfig.cache
